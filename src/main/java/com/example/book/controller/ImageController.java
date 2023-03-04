@@ -44,5 +44,12 @@ public class ImageController {
 ////        return Image.builder()
 ////                .
 ////    }
+////    @Transactional
+////    public Image getInfoByImageByName(String name){
+////        Optional<Image> dbImage=imageRepository.findByName(name);
+////
+////        return Image.builder()
+////                .
+////    }
 
 }
